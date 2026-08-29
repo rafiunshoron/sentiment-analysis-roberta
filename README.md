@@ -143,9 +143,6 @@ No dataset is required to run this application because it uses an already-traine
 - The first application startup can be slow on a CPU because the model must be downloaded and loaded into memory.
 - Predictions reflect patterns learned by the pretrained model and should not be treated as objective judgments.
 
-## Résumé Description
-
-> Built a Transformer-based sentiment-analysis web application using Python, PyTorch, Hugging Face Transformers, and Streamlit. Integrated a pretrained RoBERTa model to classify English text as negative, neutral, or positive and display confidence scores and class probabilities through an interactive interface.
 
 ## Model Credit
 
